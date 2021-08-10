@@ -1,2 +1,2 @@
 # phpleaderboard-fivem
-php fivem leaderboard
+A fivem leaderboard that sorts by kills.
